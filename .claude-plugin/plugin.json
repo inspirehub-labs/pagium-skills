@@ -1,0 +1,19 @@
+{
+  "name": "pagium",
+  "version": "0.1.0",
+  "description": "Create and edit Pagium vault files. Pagium is an HTML-native PKM app; notes are .html files with pagium:* meta tags and <pagium-link> elements. Use when working with .html files in a Pagium vault or driving the pagium CLI.",
+  "author": {
+    "name": "inspirehub-labs",
+    "url": "https://pagium.app"
+  },
+  "repository": "https://github.com/inspirehub-labs/pagium-skills",
+  "license": "MIT",
+  "keywords": [
+    "pagium",
+    "html",
+    "pkm",
+    "notes",
+    "vault",
+    "tauri"
+  ]
+}

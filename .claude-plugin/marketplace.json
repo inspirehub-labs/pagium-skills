@@ -1,0 +1,15 @@
+{
+  "name": "pagium-skills",
+  "owner": {
+    "name": "inspirehub-labs",
+    "url": "https://pagium.app"
+  },
+  "plugins": [
+    {
+      "name": "pagium",
+      "source": "./",
+      "description": "Claude Skills for Pagium",
+      "version": "0.1.0"
+    }
+  ]
+}
